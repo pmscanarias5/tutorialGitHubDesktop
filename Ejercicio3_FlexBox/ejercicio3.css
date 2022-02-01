@@ -1,0 +1,13 @@
+ul {display: flex; list-style: none; background-color: black; color: white; border: ;
+    flex-direction: row;
+    justify-content: space-around;
+    cursor: pointer;
+    font-size: medium;
+    border: white;
+    padding: 13px;
+    font-size: 20px;
+    
+    
+    }
+
+li:hover{font-weight:bold}

@@ -1,0 +1,12 @@
+html{font-size: 14px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: brown; background-color: lightblue; line-height: 1.5;
+    }
+
+
+/* Aquí hacemos una mediaquery en la que decimos que cuando haya más de 600px se cambien los colores de fondo */
+@media (min-width: 600px) {
+#SegParte {
+background-color:greenyellow ; 
+}
+#listado{background-color: orange;}
+}

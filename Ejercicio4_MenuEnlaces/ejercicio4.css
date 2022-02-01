@@ -1,0 +1,18 @@
+li {display: flex; list-style: none; background-color: blue; color: white; 
+    flex-direction:column ;
+    justify-content: space-around;
+    cursor: pointer;
+    font-size: medium;
+    padding: 13px;
+    font-size: 20px;
+    line-height: 30px;
+    border: 20px;
+    margin: 13px;
+width: 75px;}
+
+a:link{color: white;}
+a:visited{color:green}
+a:hover{font-weight:bold}
+    
+    
+

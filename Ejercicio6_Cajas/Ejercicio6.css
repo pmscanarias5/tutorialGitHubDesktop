@@ -1,0 +1,79 @@
+body{font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: gray;}
+
+#div1{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+#Image{
+    display: flex;
+    flex-direction: row;
+}
+
+#Info{
+    margin-left: 20px;
+}
+
+#medgen{
+    font-size:12px ;
+}
+
+#Botones{
+    display: flex;
+    flex-direction: row;
+}
+
+.GenericButton{
+    padding: 7px;
+    border-radius: 10px;
+    background-color: gray;
+    color: white;
+}
+.reservation{
+    background-color: white;
+    border: 2px solid grey;
+    color: black;
+    margin-right: 5px;
+}
+
+/* #parteDerecha{
+    display: flex;
+    flex-direction: row;
+
+}
+
+#Comentarios{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    padding-right: 10px;
+    
+}
+
+#nota{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    padding: 5px;
+    background-color: gray;
+    color: black;
+    border-radius: 10px;
+
+}
+
+.item{
+    display: flex;
+    margin: 2px;
+    font-size: 12px;
+}
+
+#cajaNota{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5px
+} */
