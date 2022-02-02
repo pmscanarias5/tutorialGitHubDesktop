@@ -40,7 +40,7 @@ color: gray;}
     margin-right: 5px;
 }
 
-/* #parteDerecha{
+#parteDerecha{
     display: flex;
     flex-direction: row;
 
@@ -76,4 +76,4 @@ color: gray;}
     flex-direction: column;
     justify-content: center;
     padding: 5px
-} */
+}

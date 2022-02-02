@@ -1,0 +1,29 @@
+/* body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/1024px-Koala_climbing_tree.jpg);
+} */
+
+.caja{
+    display: flex;
+    background-color: cyan;
+    color: cyan;
+    border-radius: 200px;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+
+}
+
+.cajaMedia{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+.caja:hover{
+    opacity: 0;
+
+}
+
+#cajaGrande{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Koala_climbing_tree.jpg/1024px-Koala_climbing_tree.jpg");
+    background-repeat: no-repeat;
+}
